@@ -1,4 +1,4 @@
-# CORS one liner command exploiter
+# CORS one liner command exploiter me
 
 This is an extremely helpful and practical Cheatsheet for Bug Hunters, which helps you find CORS missconfiguration in every possible method. Simply replace https://example.com with the URL you want to target. This will help you scan for CORS vulnerability without the need of an external tool. What you have to do is to copy-and-paste the commands into your terminal and finger crossed for any possible CORS.
 
